@@ -1,0 +1,5 @@
+Observations:
+Accuracy of Support Vector Machine(SVM) is 58.125%
+Accuracy of Random forest is 46.875%
+
+Support Vector Machine(SVM) is better for finding the movie review.
